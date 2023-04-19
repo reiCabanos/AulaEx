@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Personagem : MonoBehaviour
+public class NewBehaviourScript1 : MonoBehaviour
 {
-    string _nome = "Mario jbj";
+    // Start is called before the first frame update
     void Start()
     {
         
